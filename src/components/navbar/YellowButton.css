@@ -1,0 +1,17 @@
+/* YellowButton.css */
+
+.yellow-button {
+    background-color: #f8a400; /* Yellow background color */
+    color: #000; /* Black text color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .yellow-button:hover {
+    background-color: #ffcc00; /* Lighter yellow on hover */
+  }
+  

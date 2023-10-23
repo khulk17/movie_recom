@@ -1,0 +1,20 @@
+.filter-bar {
+    display: flex;
+    gap: 10%;
+    background-color:rgba(114, 225, 214, 0.942);
+  }
+  
+  .filter {
+    margin-right: 10px; /* Add spacing between filters */
+    padding: 10px;
+    margin-left: 40px;
+    cursor: pointer;
+    border: 2px solid orange    ;
+    border-radius:40px ;
+    background-color: yellow;
+  }
+  
+  .filter.active {
+    background-color: darkgray; /* Change the active filter color */
+  }
+  

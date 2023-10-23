@@ -1,0 +1,58 @@
+/* NavigationBar.css */
+
+/* Style the navigation bar with New Year's theme */
+nav {
+    background-color: #1a73e8; /* Deep blue background color for New Year's */
+    color: #fff; /* White text color */
+    padding: 10px;
+    border-bottom: 5px solid #ffdb4d; /* Bright yellow border at the bottom */
+  }
+  
+  /* Style the navigation list */
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; /* Move items to the right */
+  }
+  
+  /* Style the list items (navigation links) */
+  li {
+    margin: 0 15px;
+    font-size: 18px;
+  }
+
+
+  li:nth-child(1) {
+    margin-right: auto;
+    color: whitesmoke;
+  }
+  .icon{
+    display : flex;
+    justify-content: center;
+  }
+  .icon-text{
+    padding: 13px 5px;
+  }
+  /* Style the links with a festive touch */
+  a {
+    text-decoration: none;
+    color: #fff; /* White text color */
+    transition: color 0.3s; /* Smooth color transition on hover */
+    position: relative;
+  }
+  
+  /* Add some creativity with hover effects */
+  a:hover {
+    color: #ffdb4d; /* Bright yellow on hover for a festive feel */
+  
+    /* Add a decorative firework on hover */
+    &::before {
+      position: absolute;
+      top: -20px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 24px;
+    }
+  }
+  

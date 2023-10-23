@@ -1,0 +1,592 @@
+[
+    {
+      "Title": "The Night Manager",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYjU2NDY0ZTktYTM2Zi00NzhlLWIzZGUtMWE0N2MzNGI2YTkxXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.7,
+      "Review": "Follows Shaan Sengupta, an ex-soldier, who must infiltrate an arms dealer's inner circle to bring down his empire of war.",
+      "Runtime": "47 min",
+      "Genre": "Action, Crime, Mystery",
+      "Certificate": "A"
+    },
+    {
+      "Title": "The Jengaburu Curse",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNDU0Y2NlMDQtZjkyYS00NjM2LTlhYzYtZGEwOTJhNDgyMWUyXkEyXkFqcGdeQXVyOTIxMzQ0NzU@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8,
+      "Review": "A London-based analyst returns to Odisha in search of her missing father. Her quest leads to a conspiracy involving bauxite mining, secretly backed by an international nexus, leading to unexplained deaths and a displaced community.",
+      "Runtime": "N/A",
+      "Genre": "Thriller",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Bro",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BN2M2ZTM2MzMtZGMzMy00Yzc2LWEwNTUtNTI4OGJiNzYwZTUxXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.9,
+      "Review": "An arrogant man is given a second chance to fix his mistakes after death.",
+      "Runtime": "134 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Certificate": "U"
+    },
+    {
+      "Title": "Farzi",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNThlNGZjZDQtYzJjMi00MzM4LWFkNjctNDMwZmFjNWJkM2I4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_UY98_CR6,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8.4,
+      "Review": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
+      "Runtime": "56 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Crackdown",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNzQ4NzBmYzItNGRjMS00ZTI1LTg3MWItOWUzZjM3ZTRmODJmXkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.1,
+      "Review": "A high intensity action-thriller Crackdown 2 starts off with a plane hi-jack. This new turn of events causes grave crisis for the RAW agents where they need to figure who their enemy is, their motivations, and uncover threats.",
+      "Runtime": "30 min",
+      "Genre": "Action, Crime, Drama",
+      "Certificate": 16
+    },
+    {
+      "Title": "Jawan",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMjlkZTg4NzktYzg2ZC00YjUxLThmOWYtMzc1NzBjMDNjNTEwXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": "N/A",
+      "Review": "A high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society.",
+      "Runtime": "165 min",
+      "Genre": "Action, Thriller",
+      "Certificate": "N/A"
+    },
+    {
+      "Title": "Sandeep Bhaiya",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMzM5MTkwYTYtMTFmNC00YWYyLWFlNGEtMjIyMDRkY2NiMDkxXkEyXkFqcGdeQXVyMTExMTIzMTA5._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 9.3,
+      "Review": "A tiffin service provider finds a mentor in a failed UPSC aspirant who inspires her to become an IFS.",
+      "Runtime": "37 min",
+      "Genre": "Drama",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "3 Idiots",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR0,0,67,98_AL_.jpg",
+      "Year": 2009,
+      "IMDb_Rating": 8.4,
+      "Review": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+      "Runtime": "170 min",
+      "Genre": "Comedy, Drama",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Asur: Welcome to Your Dark Side",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNjczODVjMmMtNTVlNy00MjlkLWEyZjYtOThiYzMwZmIyNWZkXkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.5,
+      "Review": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
+      "Runtime": "43 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Certificate": 18
+    },
+    {
+      "Title": "Satyaprem Ki Katha",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNTJiM2U3NTctNTAwNi00ZmQ5LThmNDUtYjI4MDdhYzQ5ZmExXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6.8,
+      "Review": "A middle-class boy in Ahmedabad, Satyaprem falling in one-sided love with Katha, who is coping with her breakup with Tapan. Through the journey, they discover each other's life and complement in accomplishing what was left halfway.",
+      "Runtime": "146 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Gadar: Ek Prem Katha",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYTgxMzAwZTMtMTY5Yi00NWVmLTk1OGItNjAwYTAzOGU2OWNiXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_UY98_CR4,0,67,98_AL_.jpg",
+      "Year": 2001,
+      "IMDb_Rating": 7.3,
+      "Review": "During the Partition of India in 1947, a Sikh truck driver falls in love with a Muslim girl belonging to an aristocratic family.",
+      "Runtime": "170 min",
+      "Genre": "Action, Drama, Romance",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Adipurush",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNGY3YmVmN2UtNWZiNy00YTRlLTlhOTItNzlkZmFmZDA1N2QzXkEyXkFqcGdeQXVyMTU4Mzg1OTU2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 3.1,
+      "Review": "A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the demon king Lankesh.",
+      "Runtime": "179 min",
+      "Genre": "Action, Adventure, Drama",
+      "Certificate": "U"
+    },
+    {
+      "Title": "Dayaa",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNzYxN2UyZjEtNWEwZS00NGQ0LWEwZjctZWU1NDgzOTFhNDZjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6.6,
+      "Review": "When a van driver finds a dead body in his truck, he has to take extreme measures to find out the reason behind the death.",
+      "Runtime": "N/A",
+      "Genre": "Mystery",
+      "Certificate": "N/A"
+    },
+    {
+      "Title": "Checkmate",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMWJhZDc2ZmQtNTY3OS00MmE3LWJhMTEtYjllZjhjN2QwZjhjXkEyXkFqcGdeQXVyMTYxNzIxNTQ0._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8.2,
+      "Review": "An assassin gets hired for a job that throws him in a murky pool of mishaps, eventually leading to a baffling secret.",
+      "Runtime": "112 min",
+      "Genre": "Action, Comedy",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "Por Thozhil",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMjMwMmU4ZTktMjVkZi00NTQ5LTg2ZjQtZGU2YzA5MWJkMWViXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8.2,
+      "Review": "A bright but faint-hearted rookie cop has to overcome his fears in order to succeed in his first case which sees him partnered with a reclusive senior officer to catch a serial killer on the loose.",
+      "Runtime": "147 min",
+      "Genre": "Action, Crime, Thriller",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "The Family Man",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMzRjZWVmMzItNTdmYS00OWEzLTgyOGUtNThiNTU2ZThlYjY0XkEyXkFqcGdeQXVyMTIxMDk2NDE4._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2019,
+      "IMDb_Rating": 8.7,
+      "Review": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+      "Runtime": "45 min",
+      "Genre": "Action, Comedy, Drama",
+      "Certificate": "16+"
+    },
+    {
+      "Title": "OMG: Oh My God!",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNDk0NDU1NzEwN15BMl5BanBnXkFtZTgwMTgyNTA2NjE@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2012,
+      "IMDb_Rating": 8.1,
+      "Review": "A shopkeeper takes God to court when his shop is destroyed by an earthquake.",
+      "Runtime": "125 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Certificate": "U"
+    },
+    {
+      "Title": "Maamannan",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYzQxYWRiMDktZDEwNy00YjM1LTkzMjctYjAyMDIxZTEzOGZiXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6.8,
+      "Review": "The community that was exploited by the town's influential man, who completely rules due to the powerful backing of the authorities. A man collects evidence to flip him upside down when he was helpless to stop his endless torture.",
+      "Runtime": "157 min",
+      "Genre": "Action, Drama, Thriller",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Baby",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNThmOTIzOGMtOGRlYi00OWZkLWI3Y2EtY2FhZmY5MThmNjBmXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UY98_CR10,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8,
+      "Review": "A love story between neighbours and childhood friends played and what happens to their relationship when they go to college and meets a new person.",
+      "Runtime": "175 min",
+      "Genre": "Drama, Romance",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "IB 71",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMjZjMzI5NzctNzU2NC00ZTc3LTkyN2YtYmY5OTY5ZjRlMWU0XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.3,
+      "Review": "A two- front war between Indian intelligence agencies and the Pakistani establishment.",
+      "Runtime": "117 min",
+      "Genre": "Action, Thriller",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Commando",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BZDIxNGUxZjMtZjdjMi00ZWVlLTgxMzEtOGZkMDU5M2IyZmI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6.1,
+      "Review": "When a covert mission in Pakistan goes wrong and his close friend Kshitij is captured, Commando Virat embarks on a perilous journey to rescue him.",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Certificate": "N/A"
+    },
+    {
+      "Title": "Dahaad",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMmI4ODI4ZTQtMzVlMS00YTcxLTlkYmMtZGFmYWFiYTA3ZDM5XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_UY98_CR6,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.6,
+      "Review": "Sub-inspector Anjali Bhaati investigates a series of deaths where women are found in public bathrooms. The deaths first appear as suicides but as the investigation progresses, Bhaati realizes that there's a serial killer on the loose.",
+      "Runtime": "55 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "Sirf Ek Bandaa Kaafi Hai",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BODZiODQyZjgtNTdiZC00OTFhLTkwODktMjFmODJlZjk5MzYzXkEyXkFqcGdeQXVyMTQwMTI5NzM2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.9,
+      "Review": "A common man with honesty and integrity can take on the system when he has truth on his side.",
+      "Runtime": "132 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Choona",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMDA4MzhhYTEtZTE3Ni00MDJmLTkzZTktOWJhNzJiY2I1ZjljXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8.8,
+      "Review": "When an unlikely group of misfits discovers a common enemy in the same ruthless yet superstitious politician, they plot a heist to exact revenge.",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Crime, Drama",
+      "Certificate": "N/A"
+    },
+    {
+      "Title": "Scam 1992: The Harshad Mehta Story",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 9.3,
+      "Review": "Set in 1980s and '90s Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+      "Runtime": "54 min",
+      "Genre": "Biography, Crime, Drama",
+      "Certificate": 18
+    },
+    {
+      "Title": "Jai Bhim",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2021,
+      "IMDb_Rating": 8.8,
+      "Review": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "Runtime": "164 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Certificate": "A"
+    },
+    {
+      "Title": "The Kerala Story",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNzllZDVjN2EtN2M1OS00YTlkLWE0MWYtMTliMDFiODY5YmMxXkEyXkFqcGdeQXVyNTI0NzU5ODc@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.2,
+      "Review": "A converted Muslim woman Fatima Ba narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards, turned into an ISIS terrorist and landed in Afghanistan jail.",
+      "Runtime": "138 min",
+      "Genre": "Drama",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Maaveeran",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNDYyMzlkYzYtZjQ4ZS00ZDVmLThmYTEtNGNlNDBlMTIzYWJhXkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_UY98_CR2,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.4,
+      "Review": "A cowardly cartoonist starts being 'controlled' by a cartoon action figure, and takes on a corrupt politician.",
+      "Runtime": "163 min",
+      "Genre": "Action, Drama, Thriller",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Pathaan",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYTgzNjBjYTctOGJiZi00MTliLTk0YzYtNDJmYTQyMDdkMjQ5XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 5.9,
+      "Review": "An Indian agent races against a doomsday clock as a ruthless mercenary, with a bitter vendetta, mounts an apocalyptic attack against the country.",
+      "Runtime": "146 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Aspirants",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNWRkMjA0NjItMmViYS00MDQyLTgyMWYtOWFmOTA4NmU5MjRjXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "Year": 2021,
+      "IMDb_Rating": 9.2,
+      "Review": "It is the story of the journey of three UPSC (public service competitive exams in India) aspirants and their friendship against all odds.",
+      "Runtime": "45 min",
+      "Genre": "Drama",
+      "Certificate": "Not Rated"
+    },
+    {
+      "Title": "Tu Jhoothi Main Makkaar",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNmZmYWFiYzAtY2RhMC00MDRiLWI1M2YtNzRkZGNmYTIwZDI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6,
+      "Review": "Madness ensues when a 'player' in the world of romantic relationships finds a girl who's a worthy opponent, that believes love is a battle of wits.",
+      "Runtime": "150 min",
+      "Genre": "Comedy, Romance",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Half CA",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYWJhOTkxMjItZTFiNi00ZmE4LThkOWMtYWJhNDAyNzQxNjZjXkEyXkFqcGdeQXVyMTExMTIzMTA5._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8.5,
+      "Review": "Two CA Aspirants from two different ends of the spectrum of the course, Archie and Niraj embark on the journey of one of the toughest courses and face the obstacles it has to offer.",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Certificate": "N/A"
+    },
+    {
+      "Title": "Dangal",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "Year": 2016,
+      "IMDb_Rating": 8.3,
+      "Review": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+      "Runtime": "161 min",
+      "Genre": "Action, Biography, Drama",
+      "Certificate": "U"
+    },
+    {
+      "Title": "Bholaa Shankar",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNDMyYzZlNTAtNjE2ZS00NmJhLWFlNzMtODM4NGVjNzNhYjI3XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_UY98_CR6,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 3.4,
+      "Review": "A doting brother tries to hunt down notorious criminals who had harmed his sister.",
+      "Runtime": "159 min",
+      "Genre": "Action, Drama",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "CAT",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYmMzZDRhYWUtYmIzZi00NDI3LWI2ODQtZTliMjA0M2Y4Y2QwXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_UY98_CR14,0,67,98_AL_.jpg",
+      "Year": 2022,
+      "IMDb_Rating": 8.2,
+      "Review": "A former police informant is forced to become an informant again to save the life of his brother, which forces him to come to terms with his dark past.",
+      "Runtime": "45 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Certificate": 18
+    },
+    {
+      "Title": "Rocket Boys",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYjQ0YTdhZDctYzg5YS00NTNkLThiOWYtNDI5OTYzMGRkYWUyXkEyXkFqcGdeQXVyOTIxMzQ0NzU@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2022,
+      "IMDb_Rating": 8.9,
+      "Review": "The story of two extraordinary men, Dr. Homi Jehangir Bhabha and Dr. Vikram Ambalal Sarabhai, who created history while building India's future.",
+      "Runtime": "45 min",
+      "Genre": "Drama, History",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "Panchayat",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BZDkxODJmNDktZDcxMy00MGJkLWI3NzEtNzVkYTdkZWI0ZmVkXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_UY98_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.9,
+      "Review": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+      "Runtime": "35 min",
+      "Genre": "Comedy, Drama",
+      "Certificate": 16
+    },
+    {
+      "Title": "The Happening",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2008,
+      "IMDb_Rating": 5,
+      "Review": "A science teacher, his wife, and a young girl struggle to survive a plague that causes those infected to commit suicide.",
+      "Runtime": "91 min",
+      "Genre": "Adventure, Drama, Sci-Fi",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Tumbbad",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYmQxNmU4ZjgtYzE5Mi00ZDlhLTlhOTctMzJkNjk2ZGUyZGEwXkEyXkFqcGdeQXVyMzgxMDA0Nzk@._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "Year": 2018,
+      "IMDb_Rating": 8.2,
+      "Review": "A mythological story about a goddess who created the entire universe. The plot revolves around the consequences when humans build a temple for her first-born.",
+      "Runtime": "104 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Scoop",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNmUyYTkzNTktZTVkZS00NWRmLTkyYjctNWNlOWEyYjUwODgwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.7,
+      "Review": "A journalist's life takes a 360 because of the very system that made her who she is. Will she fight or will she concede?",
+      "Runtime": "60 min",
+      "Genre": "Biography, Crime, Drama",
+      "Certificate": 16
+    },
+    {
+      "Title": "Scam 2003: The Telgi Story",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BYTMyZWUxNTYtYTFkYi00M2Y1LWEzODQtYWJkM2M0YThhZDhmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UY98_CR2,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": "N/A",
+      "Review": "Born in Khanapur in Karnataka, Telgi became the mastermind behind one of the most ingenious schemes in Indian history that spread across multiple states and shook the entire country.",
+      "Runtime": "N/A",
+      "Genre": "Biography, Crime, Drama",
+      "Certificate": "U"
+    },
+    {
+      "Title": "Chor Nikal Ke Bhaga",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNDMwZjQ2YzUtZDQyMC00MjcwLTlmN2MtZGY4OGEyMzMzNTk4XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_UY98_CR6,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.5,
+      "Review": "A flight attendant and her business partner on a mission to steal diamonds and free themselves from the clutches of a loan shark.At 40,000 feet in the air, the heist goes horribly wrong and turns into a hostage situation.",
+      "Runtime": "110 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "Trial Period",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BZDUwODgzMmItMTk0Ny00ZmI0LTkwNTQtNGFmNTgzOTNhYzc2XkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.1,
+      "Review": "A working single mother's world turns upside down when her inquisitive son demands a new papa on a 30-day 'Trial Period'.",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Drama",
+      "Certificate": "UA 7+"
+    },
+    {
+      "Title": "Brahmastra Part One: Shiva",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMmE1NmQwYWUtZmNlNS00MTMxLWFlYWItNjIzN2Y4M2U1M2E5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2022,
+      "IMDb_Rating": 5.6,
+      "Review": "A DJ with superpowers and his ladylove embark on a mission to protect the Brahmastra, a weapon of enormous energy, from dark forces closing in on them.",
+      "Runtime": "167 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Kota Factory",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 20192021,
+      "IMDb_Rating": 9,
+      "Review": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives.",
+      "Runtime": "45 min",
+      "Genre": "Comedy, Drama",
+      "Certificate": 16
+    },
+    {
+      "Title": "Sweet Kaaram Coffee",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNmVlZjVkNGMtZTY3MS00YzJjLTg3NjktZTQzNGJkMDUwZGEyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.2,
+      "Review": "Three women of different generations living in the same house, attempt for once, to put themselves ahead of the people they are bound by.",
+      "Runtime": "N/A",
+      "Genre": "Drama, Family",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "Paatal Lok",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMTE5NWUyMmYtMWE1My00ZDhiLWExZjEtMGJjYTA0OGYwZjIwXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.1,
+      "Review": "A down-and-out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit leads him to 'Paatal Lok' and to shocking discoveries in the four suspects' pasts.",
+      "Runtime": "44 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Certificate": 18
+    },
+    {
+      "Title": "Special OPS",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMDc3Zjc4NjAtMTI2MC00YmQwLTk3MmItZTZiNWM0YmNiNmNkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.6,
+      "Review": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
+      "Runtime": "49 min",
+      "Genre": "Action, Crime, Thriller",
+      "Certificate": "15+"
+    },
+    {
+      "Title": "Veerappan",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BZThiNDBmMDctMDhjYS00M2I3LTk4ZjEtZDI5MmFjZjRjOGYxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg",
+      "Year": 2016,
+      "IMDb_Rating": 5.3,
+      "Review": "Officer Kannan leads a group of police officers to track down the bandit, Veerappan.",
+      "Runtime": "125 min",
+      "Genre": "Action, Biography, Crime",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Lust Stories 2",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMzhmOGQxMjQtYmFkOC00MTc0LTk2N2UtMTc4NzVlNzcyNWNlXkEyXkFqcGdeQXVyMTU2MTIyODU2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6.4,
+      "Review": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated \"Lust Stories\".",
+      "Runtime": "132 min",
+      "Genre": "Drama, Romance",
+      "Certificate": "A"
+    },
+    {
+      "Title": "The Jengaburu Curse",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNDU0Y2NlMDQtZjkyYS00NjM2LTlhYzYtZGEwOTJhNDgyMWUyXkEyXkFqcGdeQXVyOTIxMzQ0NzU@._V1_UY98_CR3,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8,
+      "Review": "A London-based analyst returns to Odisha in search of her missing father. Her quest leads to a conspiracy involving bauxite mining, secretly backed by an international nexus, leading to unexplained deaths and a displaced community.",
+      "Runtime": "N/A",
+      "Genre": "Thriller",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Bro",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BN2M2ZTM2MzMtZGMzMy00Yzc2LWEwNTUtNTI4OGJiNzYwZTUxXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 7.9,
+      "Review": "An arrogant man is given a second chance to fix his mistakes after death.",
+      "Runtime": "134 min",
+      "Genre": "Drama, Family, Fantasy",
+      "Certificate": "U"
+    },
+    {
+      "Title": "Farzi",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNThlNGZjZDQtYzJjMi00MzM4LWFkNjctNDMwZmFjNWJkM2I4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_UY98_CR6,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 8.4,
+      "Review": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
+      "Runtime": "56 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Certificate": "A"
+    },
+    {
+      "Title": "Crackdown",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNzQ4NzBmYzItNGRjMS00ZTI1LTg3MWItOWUzZjM3ZTRmODJmXkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.1,
+      "Review": "A high intensity action-thriller Crackdown 2 starts off with a plane hi-jack. This new turn of events causes grave crisis for the RAW agents where they need to figure who their enemy is, their motivations, and uncover threats.",
+      "Runtime": "30 min",
+      "Genre": "Action, Crime, Drama",
+      "Certificate": 16
+    },
+    {
+      "Title": "Jawan",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMjlkZTg4NzktYzg2ZC00YjUxLThmOWYtMzc1NzBjMDNjNTEwXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": "N/A",
+      "Review": "A high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society.",
+      "Runtime": "165 min",
+      "Genre": "Action, Thriller",
+      "Certificate": "N/A"
+    },
+    {
+      "Title": "Sandeep Bhaiya",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BMzM5MTkwYTYtMTFmNC00YWYyLWFlNGEtMjIyMDRkY2NiMDkxXkEyXkFqcGdeQXVyMTExMTIzMTA5._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 9.3,
+      "Review": "A tiffin service provider finds a mentor in a failed UPSC aspirant who inspires her to become an IFS.",
+      "Runtime": "37 min",
+      "Genre": "Drama",
+      "Certificate": "UA 16+"
+    },
+    {
+      "Title": "3 Idiots",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR0,0,67,98_AL_.jpg",
+      "Year": 2009,
+      "IMDb_Rating": 8.4,
+      "Review": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+      "Runtime": "170 min",
+      "Genre": "Comedy, Drama",
+      "Certificate": "UA"
+    },
+    {
+      "Title": "Asur: Welcome to Your Dark Side",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNjczODVjMmMtNTVlNy00MjlkLWEyZjYtOThiYzMwZmIyNWZkXkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "Year": 2020,
+      "IMDb_Rating": 8.5,
+      "Review": "Shubh returns for revenge and this season he takes the challenge to a whole new level. With the heroes fallen apart, will a desolate Dhananjay Rajpoot and a torn Nikhil Nair be able to stop him?",
+      "Runtime": "43 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Certificate": 18
+    },
+    {
+      "Title": "Satyaprem Ki Katha",
+      "Image_Link": "https://m.media-amazon.com/images/M/MV5BNTJiM2U3NTctNTAwNi00ZmQ5LThmNDUtYjI4MDdhYzQ5ZmExXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "Year": 2023,
+      "IMDb_Rating": 6.8,
+      "Review": "A middle-class boy in Ahmedabad, Satyaprem falling in one-sided love with Katha, who is coping with her breakup with Tapan. Through the journey, they discover each other's life and complement in accomplishing what was left halfway.",
+      "Runtime": "146 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Certificate": "UA"
+    }
+  ]
